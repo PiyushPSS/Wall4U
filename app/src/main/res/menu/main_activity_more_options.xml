@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/settingsMenu"
+        android:title="@string/settings" />
+
+    <item
+        android:id="@+id/privacyPolicyMenu"
+        android:title="Privacy Policy" />
+
+    <item
+        android:id="@+id/termsAndCMenu"
+        android:title="Terms &amp; Conditions" />
+
+    <item
+        android:id="@+id/HelpMenu"
+        android:title="@string/help_feedback" />
+
+    <item
+        android:id="@+id/supportUsMenu"
+        android:title="@string/support_us" />
+
+    <item
+        android:id="@+id/checkForUpdatesMenu"
+        android:title="@string/check_for_updates" />
+</menu>

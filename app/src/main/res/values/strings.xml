@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Wall4U</string>
+    <string name="discover">Discover</string>
+    <string name="categories">Categories</string>
+    <string name="settings">Settings</string>
+    <string name="trending">Trending</string>
+    <string name="random">Random</string>
+    <string name="recent">Recent</string>
+    <string name="favourites">Favourites</string>
+    <string name="enter_anything_nature_sky_etc">Enter anything (Nature, Sky, etc)</string>
+    <string name="don_t_show_this_dialog_again">Don\'t Show this dialog again</string>
+    <string name="the_image_shown_here_can_be_blurred_it_is_because_we_have_reduced_it_s_size_for_saving_your_internet_nwhen_you_download_this_image_or_set_it_as_wallpaper_it_will_be_downloaded_in_full_quality">The image shown here can be blurred. It is because we have reduced it\'s size for saving your internet. \nWhen you download this image or set it as wallpaper, it will be downloaded in full quality.</string>
+    <string name="shot_by">Shot By :</string>
+    <string name="photographer_url">Photographer URL : </string>
+    <string name="image_url">Image URL :</string>
+    <string name="set_home_screen_wallpaper">Set Home Screen Wallpaper</string>
+    <string name="set_lock_screen_wallpaper">Set Lock Screen Wallpaper</string>
+    <string name="me">Me</string>
+    <string name="store">Store</string>
+    <string name="watch_ad">Watch Ad</string>
+    <string name="please_sign_in_to_see_this_page">Please Sign-In to see this page</string>
+    <string name="sign_in">Sign-in</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="it_s_nice_to_see_you_again">It\'s nice to see you again!</string>
+    <string name="hey_family">Hey Family,</string>
+    <string name="privacy_policy"><u>Privacy Policy</u></string>
+    <string name="terms_of_service"><u>Terms &amp; Conditions</u></string>
+    <string name="upper_txt_pp">Piyush built the Wall4U app as a Freemium app. This SERVICE is provided by Piyush at no cost and is intended for use as is.\nThis page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.\n\nIf you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.\nThe terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Wall4U unless otherwise defined in this Privacy Policy.</string>
+    <string name="info_and_use_pp_txt">For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Email Address. The information that I request will be retained on your device and is not collected by me in any way.\n\nThe app does use third party services that may collect information used to identify you.\n\nPlease Refer to the privacy policies of these third party services used by the app : \nAdMob\nGoogle Play Services\nGoogle Analytics for Firebase\nGoogle Crashlytics</string>
+    <string name="log_data_pp_txt">I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.</string>
+    <string name="cookies_pp_txt">Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device\'s internal memory.\n\nThis Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.</string>
+    <string name="service_providers_pp_txt">I may employ third-party companies and individuals due to the following reasons:\n\n=>To facilitate our Service; \n=>To provide the Service on our behalf; \n=>To perform Service-related services; or \n=>To assist us in analyzing how our Service is used. \n=>I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose</string>
+    <string name="security_pp_txt">I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.</string>
+    <string name="other_sites_links_pp_txt">Note that this service contains names of companies having their own privacy policies. These external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.</string>
+    <string name="contact_us_pp_txt">If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <u><b> piyushforbusiness@gmail.com </b></u>.</string>
+    <string name="upper_txt_tc">By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Piyush.\n\nPiyush is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.\n\nThe Wall4U app stores and processes personal data that you have provided to us, in order to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Wall4U app won’t work properly or at all.\n\nThe app does use third party services that declare their own Terms and Conditions.\n\nLink to Terms and Conditions of third party service providers used by the app:\n=> Google Play Services\n=> AdMob\n=> Google Analytics for Firebase\n=> Firebase Crashlytics\n=> You should be aware that there are certain things that Piyush will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Piyush cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.\n\nIf you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.\n\nAlong the same lines, Piyush cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Piyush cannot accept responsibility.\n\nWith respect to Piyush’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Piyush accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.\n\nAt some point, we may wish to update the app. The app is currently available on Android – the requirements for system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Piyush does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.</string>
+
+    <string name="contact_us_txt_tc">If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at <u><b> piyushforbusiness@gmail.com </b></u>.</string>
+    <string name="create_an_account"><u>Create an Account</u></string>
+    <string name="join_our_family">Join Our Family!</string>
+    <string name="create_account">Create Account</string>
+    <string name="login_txt"><u><b>Login</b></u></string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="by_clicking_create_account">By clicking on Create Account, you are agreeing to our <u><b>Privacy Policy</b></u> &amp; <u><b>Terms &amp; Conditions</b></u>. You can find our Privacy Policy and Terms &amp; Conditions at the bottom of this page.</string>
+    <string name="are_you_an_existing_user">Are you an existing user?</string>
+    <string name="full_name">Full Name</string>
+    <string name="no_worries_we_has_got_your_back">No worries, We has got your back!</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="please_check_your_email_for_reset_link">Please check your email for reset link.</string>
+    <string name="no_ads">Experience Ad-Free Version</string>
+    <string name="log_out">Log Out</string>
+    <string name="help_feedback">Help &amp; Feedback</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="check_for_updates">Check for Updates</string>
+    <string name="no_ads_for_1_month">No Ads for 1 Month</string>
+    <string name="no_ads_for_6_months">No Ads for 6 Months</string>
+    <string name="no_ads_for_ever">No Ads (LIFETIME)</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="clear_all_data">Clear All Data</string>
+    <string name="change_password">Change Password</string>
+    <string name="enter_current_password">Enter Current Password</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="re_enter_new_password">Re-Enter New Password</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="login_to_see_this_page">Login to see this page</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="support_us">Support Us</string>
+
+    <string name="ad_space">Ad Space</string>
+</resources>

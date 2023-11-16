@@ -1,0 +1,11 @@
+import org.gradle.api.initialization.resolve.RepositoriesMode
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()// Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "Wall4U"
+include ':app'

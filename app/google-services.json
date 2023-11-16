@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256889979599",
+    "project_id": "wall4u-93735",
+    "storage_bucket": "wall4u-93735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256889979599:android:3ca373f45c3aa514eeadba",
+        "android_client_info": {
+          "package_name": "com.lithium.wall4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256889979599-54tc88ee0ngikaumhie0kef3ff1oqbhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPsXPAZmfXPPC8YQPJVvobKVvoltDpWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256889979599-54tc88ee0ngikaumhie0kef3ff1oqbhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
